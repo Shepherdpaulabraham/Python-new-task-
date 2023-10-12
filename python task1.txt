@@ -1,0 +1,8 @@
+global_variable = 10
+
+def my_function():
+    local_varaible = 5 #local variable with same  as the global one
+    print("Inside the function, local_variable =", local_varaible)
+
+my_function()
+print("Outsie the function, global_variable =", global_variable)

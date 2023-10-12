@@ -1,0 +1,6 @@
+str_value = "2.34"
+
+float_value = float(str_value)
+
+print("original string:", str_value)
+print("converted float:", float_value)
