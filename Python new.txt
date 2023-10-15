@@ -1,0 +1,4 @@
+my_string = "Hello paul"
+
+for letter in my_string:
+    print(letter)
